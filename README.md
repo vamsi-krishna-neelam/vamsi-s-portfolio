@@ -1,7 +1,7 @@
 Welcome to your Portfolio project
 Project info
 
-URL: [[https://portfolio.dev/projects/6db3ada8-d157-42e8-8e23-ed00ec73510d](https://codetrackerrivision.netlify.app/auth)](https://vamsiportfolioo.netlify.app/)
+URL:(https://vamsiportfolioo.netlify.app/)
 
 How can I edit this code?
 
